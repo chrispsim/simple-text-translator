@@ -1,6 +1,6 @@
 '''
-This program is a translator. It program parses data with IBM's Watson ML Servers hence
-translating the input sentences.
+This program is a translator that uses IBM Watson's Language Translator Service.
+You need an IBM Bluemix account to access the service.
 '''
 import requests
  
